@@ -5,6 +5,6 @@ published: true
 ---
 # Who I am, what I love, and what I (think) I know
 
-[DollyQuote.PNG]({{site.baseurl}}/_posts/DollyQuote.PNG)
+
 
 
