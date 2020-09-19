@@ -1,8 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: A little about me
 published: true
 ---
-# First blog with Jekyll
+# Who I am, what I love, and what I (think) I know
 
-## Yaaaaayyyyyyy
+[DollyQuote.PNG]({{site.baseurl}}/_posts/DollyQuote.PNG)
+
+
