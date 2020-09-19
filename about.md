@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: About Megan
 permalink: /about/
+published: true
 ---
+_Over  here, we do imperfect, we do real_
 
-Some information about you!
+A place to document ideas and experiences that hopefully can be found helpful to the readers
 
-### More Information
+I show a little insight on my life, jewelry-making, meal-prepping, minimalism, budgeting, and some tin foil hat stuff here and there (transparency, baby)
 
-A place to include any other types of information that you'd like to include about yourself.
+##“You have succeeded in life when all you really want is only what you really need.” —Vernon Howard##
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
